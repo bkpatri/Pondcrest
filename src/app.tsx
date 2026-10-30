@@ -7,16 +7,23 @@ type Event={id:string;item_id:string;status:Status;actor_name:string;updated_at:
 const labels={open:'Open',ready:'Complete',verified:'Complete'};
 const colors={open:'#ce6a23',ready:'#3379a3',verified:'#397b5a'};
 const initialView={x:3540,y:1400,w:1080,h:1020};
+function fitItems(list:Item[]){
+ if(!list.length)return initialView;
+ const xs=list.map(i=>i.x),ys=list.map(i=>i.y),minX=Math.min(...xs),maxX=Math.max(...xs),minY=Math.min(...ys),maxY=Math.max(...ys);
+ const padding=Math.max(100,Math.max(maxX-minX,maxY-minY)*.12);
+ return{x:minX-padding,y:minY-padding,w:maxX-minX+padding*2,h:maxY-minY+padding*2};
+}
 export default function PunchApp(){
  const [items,setItems]=useState<Item[]>([]),[history,setHistory]=useState<Event[]>([]),[user,setUser]=useState<{name:string;email:string;reviewer:boolean}|null>(null);
  const [selected,setSelected]=useState<string|null>(null),[hover,setHover]=useState<string|null>(null),[query,setQuery]=useState(''),[filter,setFilter]=useState('all');
  const [view,setView]=useState(initialView),[error,setError]=useState(''),[auth,setAuth]=useState(false),[loading,setLoading]=useState(true),[saving,setSaving]=useState(false),[note,setNote]=useState(''),[notice,setNotice]=useState(''),[photoOpen,setPhotoOpen]=useState(false);
  const [mobile,setMobile]=useState<'map'|'list'>('map');
+ const initialFit=useRef(false);
  const svg=useRef<SVGSVGElement|null>(null),drag=useRef<{x:number;y:number;view:typeof view;moved:boolean}|null>(null),request=useRef(0),savingRef=useRef(false);
  const load=useCallback(async()=>{
   const seq=++request.current;
   try{const d:any=await readItems();const r={ok:true,status:200};if(seq!==request.current)return;if(!r.ok){if(r.status===401)setAuth(true);throw Error(d.error||'Unable to load items.');}
-   setItems(d.items);setHistory(d.history);setUser(d.user);setError('');setAuth(false);
+   setItems(d.items);if(!initialFit.current){setView(fitItems(d.items));initialFit.current=true;}setHistory(d.history);setUser(d.user);setError('');setAuth(false);
   }catch(e:any){if(seq===request.current)setError(e.message||'Connection unavailable.');}finally{setLoading(false);}
  },[]);
  useEffect(()=>{load();const timer=setInterval(()=>{if(!document.hidden&&!savingRef.current)load();},20000);const focus=()=>{if(!savingRef.current)load();};window.addEventListener('focus',focus);return()=>{clearInterval(timer);window.removeEventListener('focus',focus);};},[load]);
@@ -49,7 +56,7 @@ export default function PunchApp(){
       <title>{i.id}: {i.description}</title>
      </g>)}
     </svg>
-    <div className="map-controls"><button aria-label="Zoom in" onClick={()=>zoom(.7)}>+</button><button aria-label="Zoom out" onClick={()=>zoom(1.4)}>−</button><span/><button aria-label="Fit all punch list points" title="Fit points" onClick={()=>setView(initialView)}>⌖</button><button aria-label="Show whole site plan" title="Whole plan" onClick={()=>setView({x:0,y:0,w:plan.width,h:plan.height})}>▣</button></div>
+    <div className="map-controls"><button aria-label="Zoom in" onClick={()=>zoom(.7)}>+</button><button aria-label="Zoom out" onClick={()=>zoom(1.4)}>−</button><span/><button aria-label="Fit all punch list points" title="Fit points" onClick={()=>setView(fitItems(items))}>⌖</button><button aria-label="Show whole site plan" title="Whole plan" onClick={()=>setView({x:0,y:0,w:plan.width,h:plan.height})}>▣</button></div>
     {tip&&tip.id!==selected&&<div className="hover-card"><img src={tip.photo} alt={`Photo for ${tip.id}`}/><div><span className={'badge '+tip.status}>{labels[tip.status]}</span><h3>{tip.id} <small>{tip.code}</small></h3><p>{tip.description}</p><button onClick={()=>choose(tip)}>Open item →</button></div></div>}
     <div className="map-legend">{(['open','verified'] as Status[]).map(s=><span key={s}><i style={{background:colors[s]}}/>{s==='verified'?'Complete':'Open'}</span>)}</div><div className="map-credit">Georeferenced project plan · EPSG:6570</div>
    </section>
