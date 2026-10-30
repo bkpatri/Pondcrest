@@ -1,6 +1,6 @@
 # Pondcrest punch list
 
-Interactive georeferenced site plan with 37 initial punch items, JPEG photo previews, and shared completion saving in Supabase.
+Interactive georeferenced site plan with 73 punch items, JPEG photo previews, and shared completion saving in Supabase.
 
 Orange means open. Green means complete. Anyone with access to the website can mark an item complete or reopen it.
 
