@@ -1,25 +1,25 @@
 # Pondcrest punch list
 
-Interactive georeferenced site plan with 73 punch items, JPEG photo previews, and shared completion saving in Supabase.
+Live website: https://bkpatri.github.io/Pondcrest/
 
-Orange means open. Green means complete. Anyone with access to the website can mark an item complete or reopen it.
+127 final punch list items with georeferenced site-plan markers, JPEG photos, survey details, and shared completion saving in Supabase.
 
-## Website
+## Filters and colors
 
-Once GitHub Pages is enabled: https://bkpatri.github.io/Pondcrest/
+Filter category and responsible party independently or together. Categories come from the beginning of Description: Concrete, Grading, Storm, or Conduit. Codes identify the responsible party (Punch-JR or Punch-HLC). Open items use category colors; completion always overrides the category color with green. Filters apply to both the map and item list. Status and search filters can also be combined.
 
-## Add points or update descriptions
+Hover previews and the item detail panel show Name, Code, Description, Easting, Northing, Elevation, in that order, alongside the photo. Hover previews let pointer events pass through to prevent flickering.
 
-1. Replace `punch-list.csv` with your complete cumulative CSV export.
-2. Add matching JPEG files under `photos/`, keeping filenames identical to the CSV’s `Point photos` values.
-3. Commit the changes. GitHub Pages publishes the updated files.
+## CSV downloads
 
-Keep every point’s `Name` unique and stable. Do not reuse an old Name for a new item. Completion statuses are stored separately from the CSV and remain saved when the CSV is replaced.
+- Pondcrest-Trimble.csv: Name, Easting, Northing, Elevation, Code, Description. Includes a header. Map these columns when importing into the GPS software. Values remain in feet, EPSG:6570 (NAD83(2011) / South Carolina) with NAVD88/GEOID18 elevations, as supplied by the survey export.
+- Pondcrest-Full.csv: unmodified original final CSV export, including the source coordinate-system metadata.
+- punch-list.csv: website data with Name, Code, Description, Easting, Northing, Elevation, Point photos.
 
-Required CSV columns: `Name`, `Code`, `Description`, `Easting`, `Northing`, `Point photos`. Use the same EPSG:6570 coordinate system as the current dataset.
+## Updating the list
 
-## Maintenance
+Keep every Name unique and stable. Replace the complete cumulative website CSV, refresh both downloadable CSVs, and add the matching JPEG filenames under photos/. Existing completion statuses are stored separately and survive replacement. Do not reuse an old Name for another point. Prefix each Description with its category.
 
-Prebuilt browser assets are included under `assets/`; CSV and photo updates need no build. For application source changes, run `npm install` and `npm run build`, then commit the updated assets with the source.
+Prebuilt assets are under assets/. For application changes, run npm install and npm run build, then commit the source and rebuilt assets. CSV/photo-only changes need no rebuild.
 
-`config.json` contains only the public Supabase project URL and publishable key. Never place a secret or service-role key in browser files. `setup/shared-completion.sql` records the database setup already applied to the Pondcrest Supabase project.
+config.json contains only the public Supabase URL and publishable key. Never put secret or service-role keys into browser files. setup/shared-completion.sql records the existing database setup.
