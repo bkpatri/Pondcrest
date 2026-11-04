@@ -1,5 +1,6 @@
 import {parseCSV} from './csv';
 import plan from './plan.json';
+import {categoryFromDescription} from './categories';
 type Config={supabaseUrl:string;supabasePublishableKey:string};
 let config:Config|null=null;
 async function settings(){
@@ -27,7 +28,7 @@ export async function readItems(){
   if(!row.Easting?.trim()||!row.Northing?.trim()||!Number.isFinite(x)||!Number.isFinite(y))throw Error('Invalid Easting or Northing for '+id+'.');
   if(!photo||/[\\/]/.test(photo))throw Error('Point photos must contain a single photo filename for '+id+'.');
   const status=saved.get(id);
-  return{id,code:row.Code||'',description:row.Description||'',x:(x-plan.originX)/plan.feetPerPixel,y:(plan.originY-y)/plan.feetPerPixel,photo:'./photos/'+encodeURIComponent(photo),status:status?.complete?'verified':'open',revision:status?.revision??-1};
+  return{id,code:row.Code||'',description:row.Description||'',category:categoryFromDescription(row.Description||''),easting:row.Easting,northing:row.Northing,elevation:row.Elevation||'',x:(x-plan.originX)/plan.feetPerPixel,y:(plan.originY-y)/plan.feetPerPixel,photo:'./photos/'+encodeURIComponent(photo),status:status?.complete?'verified':'open',revision:status?.revision??-1};
  });
  return{items,history:[],user:{name:'Shared project',email:'Shared completion',reviewer:false}};
 }
