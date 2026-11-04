@@ -1,74 +1,128 @@
-Name,Code,Description,Easting,Northing,Point photos
-PL,Punch-JR,Concrete needed behind catch basin curb from phase one. Talked to Josh about this.,2069444.213,217133.767,PL_33519487_20261028145334.jpeg
-PL1,Punch-JR,Sinking asphalt where curb was put in,2069477.923,217040.224,PL1_32d66359_20261028145523.jpeg
-PL2,Punch-JR,Crack in curb,2069480.315,217217.968,PL2_32d6635b_20261028145648.jpeg
-PL3,Punch-JR,Crack in curb,2069480.189,217267.730,PL3_3351948f_20261028145716.jpeg
-PL4,Punch-JR,Crack in curb,2069480.272,217272.389,PL4_ae44a3c2_20261028145732.jpeg
-PL5,Punch-JR,Crack in curb,2069480.196,217303.667,PL5_32d6635d_20261028145755.jpeg
-PL6,Punch-JR,Crack in curb and face chipped out,2069480.217,217315.095,PL6_33519493_20261028145826.jpeg
-PL7,Punch-JR,Alley slope needs to be cut back so that it is at grade by the time it gets to asphalt so water can shed off asphalt and not get trapped,2069536.428,217381.360,PL7_33519497_20261028150008.jpeg
-PL8,Punch-JR,Alley slope needs to be cut back so that it is at grade by the time it gets to asphalt so water can shed off asphalt and not get trapped,2069513.899,217411.401,PL8_ae44a3ca_20261028150034.jpeg
-PL9,Punch-JR,Crack in curb,2069504.849,217402.716,PL9_3351949b_20261028150107.jpeg
-PL10,Punch-JR,Crack in curb,2069499.252,217398.871,PL10_3351949d_20261028150124.jpeg
-PL11,Punch-JR,Crack in curb,2069489.022,217391.309,PL11_32d66367_20261028150142.jpeg
-PL12,Punch-JR,Crack in curb and chipped out,2069453.047,217206.043,PL12_335194a5_20261028150858.jpeg
-PL13,Punch-JR,Broken curb,2069451.559,217209.785,PL13_32d66382_20261028150933.jpeg
-PL14,Punch-JR,Crack in curb,2069449.279,217211.154,PL14_335194ab_20261028151004.jpeg
-PL15,Punch-JR,Crack in curb,2069446.444,217214.937,PL15_ae44a3db_20261028151016.jpeg
-PL16,Punch-JR,Crack in curb,2069446.220,217226.329,PL16_335194ad_20261028151031.jpeg
-PL17,Punch-JR,Curb joint chipped out,2069445.819,217260.804,PL17_335194af_20261028151106.jpeg
-PL18,Punch-JR,Crack in curb,2069408.276,217312.615,PL18_32d66386_20261028151213.jpeg
-PL19,Punch-JR,Crack in curb,2069406.373,217315.385,PL19_ae44a3e1_20261028151226.jpeg
-PL20,Punch-JR,"Address sinkhole, and under drains left open.",2069341.729,217402.613,PL20_ae44a3e5_20261028151338.jpeg
-PL21,Punch-JR,Confirm under drains have been sealed,2069368.111,217425.596,PL21_ae44a3e9_20261028151503.jpeg
-PL22,Punch-JR,Crack in curb,2069396.867,217385.623,PL22_32d66391_20261028151536.jpeg
-PL23,Punch-JR,Seal underdrain holes in box,2069305.410,217456.039,PL23_335194c9_20261028151700.jpeg
-PL24,Punch-JR,Seal underdrain holes in box and re-compact around it,2069145.914,217283.952,PL24_ae44a3f5_20261028151907.jpeg
-PL25,Punch-JR,Seal underdrain holes in box and re-compact around it,2069165.038,217068.645,PL25_335194d5_20261028152033.jpeg
-PL26,Punch-JR,Crack in curb,2069149.923,217047.447,PL26_32d663a0_20261028152145.jpeg
-PL27,Punch-JR,Crack in curb,2069264.327,217041.924,PL27_32d663ba_20261028153147.jpeg
-PL28,Punch-HLC,Curb section broken,2069284.000,217039.144,PL28_32d663c4_20261028153356.jpeg
-PL29,Punch-HLC,Curb section broken,2069323.845,217040.659,PL29_3351950f_20261028153459.jpeg
-PL30,Punch-JR,Two cracks in curb and top chipped out,2069330.073,217037.898,PL30_32d663ce_20261028153533.jpeg
-PL31,Punch-JR,Crack in curb,2069412.416,217044.448,PL31_ae44a428_20261028153621.jpeg
-PL32,Punch-JR,Crack in curb,2069442.224,217037.353,PL32_ae44a42c_20261028153710.jpeg
-PL33,Punch-JR,Crack in curb,2069439.335,217036.662,PL33_33519515_20261028153726.jpeg
-PL34,Punch-JR,2 cracks in curb plus broken end,2069426.562,217036.444,PL34_ae44a430_20261028153806.jpeg
-PL35,Punch-JR,Crack in curb,2069337.242,217013.474,PL35_32d663d6_20261028153911.jpeg
-PL36,Punch-JR,Crack in curb at taper,2069149.889,217047.672,PL36_32d663da_20261028154028.jpeg
-PL37,Punch-JR,Concrete - Finish sidewalk,2069009.834,217064.077,PL37_ae44b65d_20261030152909.jpeg
-PL38,Punch-JR,Storm -open grate and confirm under drain holes are filled,2069006.134,217205.978,PL38_32d6763b_20261030153123.jpeg
-PL39,Punch-JR,Concrete - crack in curb,2069008.212,217224.739,PL39_3351a797_20261030153209.jpeg
-PL40,Punch-JR,Storm - open grate and confirm under drain holes are filled,2069012.873,217450.686,PL40_32d6764f_20261030153426.jpeg
-PL41,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068987.123,217450.798,PL41_32d67651_20261030153447.jpeg
-PL42,Punch-JR,Concrete - crack in curb,2068984.612,217396.238,PL42_3351a7b1_20261030153844.jpeg
-PL43,Punch-JR,Concrete - crack in curb,2068983.635,217368.346,PL43_32d67663_20261030153939.jpeg
-PL44,Punch-JR,Storm - seal under drain holes in box,2068979.063,217206.905,PL44_3351a7c5_20261030154308.jpeg
-PL45,Punch-JR,Concrete - crack in curb,2068975.090,217121.772,PL45_ae44b6a2_20261030154414.jpeg
-PL46,Punch-JR,Concrete - crack in curb gutter,2068974.315,217081.488,PL46_ae44b6a6_20261030154457.jpeg
-PL47,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068974.705,217075.416,PL47_3351a7d1_20261030154530.jpeg
-PL48,Punch-JR,Storm - open grate and confirm under drain holes are filled,2069001.466,217072.126,PL48_ae44b6aa_20261030154628.jpeg
-PL49,Punch-JR,Concrete - curb end needs rounding,2068980.487,217071.084,PL49_ae44b6b0_20261030154718.jpeg
-PL50,Punch-JR,Concrete - crack in curb,2068980.010,217060.765,PL50_3351a7dd_20261030154749.jpeg
-PL51,Punch-JR,Concrete - crack in curb,2069068.557,217006.771,PL51_ae44b6ba_20261030154903.jpeg
-PL52,Punch-JR,Concrete - crack in curb,2068861.429,217012.016,PL52_32d67695_20261030155025.jpeg
-PL53,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068720.880,217048.479,PL53_ae44b6b8_20261030155202.jpeg
-PL54,Punch-JR,Concrete - finish sidewalk,2068727.087,217053.463,PL54_3351a7eb_20261030155253.jpeg
-PL55,Punch-JR,Concrete - finish sidewalk,2068847.562,217072.946,PL55_ae44b6bc_20261030155346.jpeg
-PL56,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068842.458,217210.892,PL56_32d67699_20261030155450.jpeg
-PL57,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068732.891,217459.716,PL57_ae44b6c6_20261030155655.jpeg
-PL58,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068715.851,217459.828,PL58_ae44b6c8_20261030155714.jpeg
-PL59,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068728.642,217215.823,PL59_3351a7f3_20261030155847.jpeg
-PL60,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068706.435,217216.843,PL60_32d676a7_20261030155905.jpeg
-PL61,Punch-JR,Concrete - crack in curb,2068688.877,217008.718,PL61_3351a7f7_20261030160044.jpeg
-PL62,Punch-JR,Concrete - crack in curb and face chipped off,2068610.867,216999.253,PL62_3351a7f9_20261030160140.jpeg
-PL63,Punch-HLC,Concrete - taper section broken off,2068582.609,217003.517,PL63_32d676ab_20261030160242.jpeg
-PL64,Punch-JR,Concrete - crack in curb,2068553.380,217005.367,PL64_32d676b1_20261030160319.jpeg
-PL65,Punch-JR,Concrete - crack in curb,2068462.725,217004.307,PL65_ae44b6d4_20261030160359.jpeg
-PL66,Punch-JR,"Concrete - finish sidewalk, thicker at corner for traffic",2068411.589,217033.427,PL66_3351a7ff_20261030160522.jpeg
-PL67,Punch-HLC,Conduit - finish street light sleeve,2068414.719,217046.771,PL67_3351a805_20261030160619.jpeg
-PL68,Punch-HLC,Concrete - sidewalk corner broken. Replace with thicker sidewalk at corner.,2068456.833,217028.471,PL68_ae44b6dd_20261030160725.jpeg
-PL69,Punch-JR,Concrete - finish sidewalk,2068463.693,217077.655,PL69_32d676b6_20261030160815.jpeg
-PL70,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068579.013,217217.797,PL70_ae44b6e5_20261030161100.jpeg
-PL71,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068585.334,217464.205,PL71_3351a80f_20261030161228.jpeg
-PL72,Punch-JR,Grading - repair low spot on edge of alley,2068697.979,217456.926,PL72_32d676c2_20261030161348.jpeg
+Name,Code,Description,Easting,Northing,Elevation,Point photos
+PL,Punch-JR,Concrete - Concrete needed behind catch basin curb from phase one. Talked to Josh about this.,2069444.213,217133.767,19.090,PL_33519487_20261028145334.jpeg
+PL1,Punch-JR,Grading -  Sinking asphalt where curb was put in,2069477.923,217040.224,20.012,PL1_32d66359_20261028145523.jpeg
+PL2,Punch-JR,Concrete - Crack in curb,2069480.315,217217.968,20.570,PL2_32d6635b_20261028145648.jpeg
+PL3,Punch-JR,Concrete - Crack in curb,2069480.189,217267.730,21.078,PL3_3351948f_20261028145716.jpeg
+PL4,Punch-JR,Concrete - Crack in curb,2069480.272,217272.389,21.142,PL4_ae44a3c2_20261028145732.jpeg
+PL5,Punch-JR,Concrete - Crack in curb,2069480.196,217303.667,20.957,PL5_32d6635d_20261028145755.jpeg
+PL6,Punch-JR,Concrete - Crack in curb and face chipped out,2069480.217,217315.095,20.749,PL6_33519493_20261028145826.jpeg
+PL7,Punch-JR,Grading - Alley slope needs to be cut back so that it is at grade by the time it gets to asphalt so water can shed off asphalt and not get trapped,2069536.428,217381.360,19.585,PL7_33519497_20261028150008.jpeg
+PL8,Punch-JR,Grading - Alley slope needs to be cut back so that it is at grade by the time it gets to asphalt so water can shed off asphalt and not get trapped,2069513.899,217411.401,19.605,PL8_ae44a3ca_20261028150034.jpeg
+PL9,Punch-JR,Concrete - Crack in curb,2069504.849,217402.716,19.605,PL9_3351949b_20261028150107.jpeg
+PL10,Punch-JR,Concrete - Crack in curb,2069499.252,217398.871,19.706,PL10_3351949d_20261028150124.jpeg
+PL11,Punch-JR,Concrete - Crack in curb,2069489.022,217391.309,19.772,PL11_32d66367_20261028150142.jpeg
+PL12,Punch-JR,Concrete - Crack in curb and chipped out,2069453.047,217206.043,21.052,PL12_335194a5_20261028150858.jpeg
+PL13,Punch-JR,Concrete - Broken curb,2069451.559,217209.785,21.195,PL13_32d66382_20261028150933.jpeg
+PL14,Punch-JR,Concrete - Crack in curb,2069449.279,217211.154,21.232,PL14_335194ab_20261028151004.jpeg
+PL15,Punch-JR,Concrete - Crack in curb,2069446.444,217214.937,21.319,PL15_ae44a3db_20261028151016.jpeg
+PL16,Punch-JR,Concrete - Crack in curb,2069446.220,217226.329,21.458,PL16_335194ad_20261028151031.jpeg
+PL17,Punch-JR,Concrete - Curb joint chipped out,2069445.819,217260.804,21.715,PL17_335194af_20261028151106.jpeg
+PL18,Punch-JR,Concrete - Crack in curb,2069408.276,217312.615,21.604,PL18_32d66386_20261028151213.jpeg
+PL19,Punch-JR,Concrete - Crack in curb,2069406.373,217315.385,21.575,PL19_ae44a3e1_20261028151226.jpeg
+PL20,Punch-JR,"Storm - Address sinkhole, and under drains left open.",2069341.729,217402.613,20.580,PL20_ae44a3e5_20261028151338.jpeg
+PL21,Punch-JR,Storm - Confirm under drains have been sealed,2069368.111,217425.596,20.441,PL21_ae44a3e9_20261028151503.jpeg
+PL22,Punch-JR,Concrete - Crack in curb,2069396.867,217385.623,21.078,PL22_32d66391_20261028151536.jpeg
+PL23,Punch-JR,Storm - Seal underdrain holes in box,2069305.410,217456.039,20.706,PL23_335194c9_20261028151700.jpeg
+PL24,Punch-JR,Storm - Seal underdrain holes in box and re-compact around it,2069145.914,217283.952,20.205,PL24_ae44a3f5_20261028151907.jpeg
+PL25,Punch-JR,Storm - Seal underdrain holes in box and re-compact around it,2069165.038,217068.645,20.413,PL25_335194d5_20261028152033.jpeg
+PL26,Punch-JR,Concrete - Crack in curb,2069149.923,217047.447,20.386,PL26_32d663a0_20261028152145.jpeg
+PL27,Punch-JR,Concrete - Crack in curb,2069264.327,217041.924,20.332,PL27_32d663ba_20261028153147.jpeg
+PL28,Punch-HLC,Concrete - Curb section broken,2069284.000,217039.144,20.705,PL28_32d663c4_20261028153356.jpeg
+PL29,Punch-HLC,Concrete - Curb section broken,2069323.845,217040.659,20.154,PL29_3351950f_20261028153459.jpeg
+PL30,Punch-JR,Concrete - Two cracks in curb and top chipped out,2069330.073,217037.898,20.106,PL30_32d663ce_20261028153533.jpeg
+PL31,Punch-JR,Concrete - Crack in curb,2069412.416,217044.448,20.094,PL31_ae44a428_20261028153621.jpeg
+PL32,Punch-JR,Concrete - Crack in curb,2069442.224,217037.353,20.427,PL32_ae44a42c_20261028153710.jpeg
+PL33,Punch-JR,Concrete - Crack in curb,2069439.335,217036.662,20.442,PL33_33519515_20261028153726.jpeg
+PL34,Punch-JR,Concrete - 2 cracks in curb plus broken end,2069426.562,217036.444,20.437,PL34_ae44a430_20261028153806.jpeg
+PL35,Punch-JR,Concrete - Crack in curb,2069337.242,217013.474,20.543,PL35_32d663d6_20261028153911.jpeg
+PL36,Punch-JR,Concrete - Crack in curb at taper,2069149.889,217047.672,20.352,PL36_32d663da_20261028154028.jpeg
+PL37,Punch-JR,Concrete - Finish sidewalk,2069009.834,217064.077,19.991,PL37_ae44b65d_20261030152909.jpeg
+PL38,Punch-JR,Storm -open grate and confirm under drain holes are filled,2069006.134,217205.978,20.175,PL38_32d6763b_20261030153123.jpeg
+PL39,Punch-JR,Concrete - crack in curb,2069008.212,217224.739,20.771,PL39_3351a797_20261030153209.jpeg
+PL40,Punch-JR,Storm - open grate and confirm under drain holes are filled,2069012.873,217450.686,18.892,PL40_32d6764f_20261030153426.jpeg
+PL41,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068987.123,217450.798,18.769,PL41_32d67651_20261030153447.jpeg
+PL42,Punch-JR,Concrete - crack in curb,2068984.612,217396.238,19.986,PL42_3351a7b1_20261030153844.jpeg
+PL43,Punch-JR,Concrete - crack in curb,2068983.635,217368.346,20.234,PL43_32d67663_20261030153939.jpeg
+PL44,Punch-JR,Storm - seal under drain holes in box,2068979.063,217206.905,19.947,PL44_3351a7c5_20261030154308.jpeg
+PL45,Punch-JR,Concrete - crack in curb,2068975.090,217121.772,20.683,PL45_ae44b6a2_20261030154414.jpeg
+PL46,Punch-JR,Concrete - crack in curb gutter,2068974.315,217081.488,19.699,PL46_ae44b6a6_20261030154457.jpeg
+PL47,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068974.705,217075.416,19.609,PL47_3351a7d1_20261030154530.jpeg
+PL48,Punch-JR,Storm - open grate and confirm under drain holes are filled,2069001.466,217072.126,19.730,PL48_ae44b6aa_20261030154628.jpeg
+PL49,Punch-JR,Concrete - curb end needs rounding,2068980.487,217071.084,20.243,PL49_ae44b6b0_20261030154718.jpeg
+PL50,Punch-JR,Concrete - crack in curb,2068980.010,217060.765,20.332,PL50_3351a7dd_20261030154749.jpeg
+PL51,Punch-JR,Concrete - crack in curb,2069068.557,217006.771,20.278,PL51_ae44b6ba_20261030154903.jpeg
+PL52,Punch-JR,Concrete - crack in curb,2068861.429,217012.016,19.865,PL52_32d67695_20261030155025.jpeg
+PL53,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068720.880,217048.479,18.410,PL53_ae44b6b8_20261030155202.jpeg
+PL54,Punch-JR,Concrete - finish sidewalk,2068727.087,217053.463,18.714,PL54_3351a7eb_20261030155253.jpeg
+PL55,Punch-JR,Concrete - finish sidewalk,2068847.562,217072.946,19.363,PL55_ae44b6bc_20261030155346.jpeg
+PL56,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068842.458,217210.892,18.530,PL56_32d67699_20261030155450.jpeg
+PL57,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068732.891,217459.716,19.031,PL57_ae44b6c6_20261030155655.jpeg
+PL58,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068715.851,217459.828,19.048,PL58_ae44b6c8_20261030155714.jpeg
+PL59,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068728.642,217215.823,17.950,PL59_3351a7f3_20261030155847.jpeg
+PL60,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068706.435,217216.843,17.929,PL60_32d676a7_20261030155905.jpeg
+PL61,Punch-JR,Concrete - crack in curb,2068688.877,217008.718,19.012,PL61_3351a7f7_20261030160044.jpeg
+PL62,Punch-JR,Concrete - crack in curb and face chipped off,2068610.867,216999.253,18.836,PL62_3351a7f9_20261030160140.jpeg
+PL63,Punch-HLC,Concrete - taper section broken off,2068582.609,217003.517,18.675,PL63_32d676ab_20261030160242.jpeg
+PL64,Punch-JR,Concrete - crack in curb,2068553.380,217005.367,18.744,PL64_32d676b1_20261030160319.jpeg
+PL65,Punch-JR,Concrete - crack in curb,2068462.725,217004.307,18.432,PL65_ae44b6d4_20261030160359.jpeg
+PL66,Punch-JR,"Concrete - finish sidewalk, thicker at corner for traffic",2068411.589,217033.427,18.098,PL66_3351a7ff_20261030160522.jpeg
+PL67,Punch-HLC,Conduit - finish street light sleeve,2068414.719,217046.771,17.640,PL67_3351a805_20261030160619.jpeg
+PL68,Punch-HLC,Concrete - sidewalk corner broken. Replace with thicker sidewalk at corner.,2068456.833,217028.471,18.318,PL68_ae44b6dd_20261030160725.jpeg
+PL69,Punch-JR,Concrete - finish sidewalk,2068463.693,217077.655,18.216,PL69_32d676b6_20261030160815.jpeg
+PL70,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068579.013,217217.797,18.413,PL70_ae44b6e5_20261030161100.jpeg
+PL71,Punch-JR,Storm - open grate and confirm under drain holes are filled,2068585.334,217464.205,18.903,PL71_3351a80f_20261030161228.jpeg
+PL72,Punch-JR,Grading - repair low spot on edge of alley,2068697.979,217456.926,19.021,PL72_32d676c2_20261030161348.jpeg
+PL73,Punch-JR,Storm - inspect cause of sinkhole and repair,2068452.957,217058.932,17.187,PL73_fcfc453d_20261103205202.jpeg
+PL74,Punch-JR,Storm - confirm underdrain holes in box are filled,2068454.802,217225.231,17.523,PL74_fcfc454d_20261103205444.jpeg
+PL75,Punch-JR,Concrete - repair sidewalk where track-hoe ran over it. Section should be the reinforced thickness.,2068384.458,217247.276,18.037,PL75_8469225c_20261103205644.jpeg
+PL76,Punch-JR,Storm - confirm underdrain holes are filled,2068458.009,217354.327,18.045,PL76_fcfc4559_20261103205825.jpeg
+PL77,Punch-JR,Storm - confirm underdrain holes are filled,2068378.419,217356.937,17.936,PL77_fcfc455b_20261103205912.jpeg
+PL78,Punch-JR,Storm - remove asphalt from top of grate. confirm underdrain holes are filled,2068462.313,217467.069,18.577,PL78_04d2e822_20261103210133.jpeg
+PL79,Punch-JR,Storm - confirm underdrain holes are filled,2068465.420,217565.041,17.800,PL79_fcfc4563_20261103210243.jpeg
+PL80,Punch-JR,Storm - confirm underdrain holes are filled,2068467.584,217608.309,18.337,PL80_84692268_20261103210318.jpeg
+PL81,Punch-JR,Storm - confirm underdrain holes are filled,2068351.841,217567.819,17.612,PL81_8469226c_20261103210423.jpeg
+PL82,Punch-JR,Storm - confirm underdrain holes are filled,2068378.391,217356.584,17.965,PL82_fcfc456b_20261103210542.jpeg
+PL83,Punch-JR,Concrete - crack in curb,2068383.138,217310.594,18.772,PL83_fcfc456d_20261103210640.jpeg
+PL84,Punch-JR,Concrete - 2 cracks in curb taper,2068386.687,217267.385,18.704,PL84_fcfc4571_20261103210738.jpeg
+PL85,Punch-JR,Concrete - chipped out joint,2068473.925,217581.226,18.692,PL85_04d2e832_20261103210939.jpeg
+PL86,Punch-HLC,Concrete - curb broken and needs replaced. Damaged by putting green installer,2068547.428,217731.430,20.869,PL86_8469227b_20261103211143.jpeg
+PL87,Punch-JR,Concrete - crack in curb,2068549.337,217799.194,20.145,PL87_04d2e838_20261103211328.jpeg
+PL88,Punch-JR,Concrete - broken taper end,2068517.669,217814.384,19.273,PL88_84692294_20261103211540.jpeg
+PL89,Punch-JR,Concrete - crack in curb,2068452.242,217837.459,18.533,PL89_04d2e865_20261103211721.jpeg
+PL90,Punch-JR,Concrete - crack in curb,2068327.335,217815.105,19.172,PL90_04d2e863_20261103212046.jpeg
+PL91,Punch-JR,Concrete - crack in curb,2068327.154,217808.435,19.201,PL91_8469229a_20261103212101.jpeg
+PL92,Punch-JR,Concrete - crack in curb,2068327.040,217806.260,19.184,PL92_fcfc45a2_20261103212122.jpeg
+PL93,Punch-JR,Concrete - crack in curb,2068327.049,217803.646,19.176,PL93_fcfc45a6_20261103212138.jpeg
+PL94,Punch-JR,Storm - confirm underdrain holes are filled,2068332.415,217721.370,17.943,PL94_84692292_20261103212414.jpeg
+PL95,Punch-JR,Grading - bring in dirt to be within 2” of sidewalk,2068322.520,217753.724,18.641,PL95_846922b0_20261103213923.jpeg
+PL96,Punch-JR,Storm - non-compacted area. Has caused asphalt to crack off. Need to figure out why this area is sinking.,2068168.643,217765.475,17.273,PL96_fcfc45ba_20261103214215.jpeg
+PL97,Punch-JR,Storm - non-compacted area where under drain was installed,2067902.309,217767.486,17.269,PL97_04d2e87f_20261103214408.jpeg
+PL98,Punch-JR,Storm - top grate needs a cross support. Unsafe. Collapses down if stepped on,2067858.614,217825.404,16.116,PL98_846922b6_20261103214559.jpeg
+PL99,Punch-JR,Storm - top mortar has cracked off,2067858.194,217824.765,16.192,PL99_fcfc45c6_20261103214716.jpeg
+PL100,Punch-JR,Storm - grate needs cross support and trash racks installed,2067469.313,217946.217,16.267,PL100_fcfc45c8_20261103215215.jpeg
+PL101,Punch-JR,Grading - need better fill around pipe and address washouts on side,2067464.339,217939.246,16.063,PL101_846922ca_20261103215256.jpeg
+PL102,Punch-JR,Grading - need to address washout,2067454.097,217957.989,15.094,PL102_846922c8_20261103215407.jpeg
+PL103,Punch-JR,Grading - need to address washout. Grade is still too high on top of bank to allow water to shed off road. Will need erosion control installed after addressing,2067582.504,218022.667,15.428,PL103_846922ce_20261103220319.jpeg
+PL104,Punch-JR,Grading - Grade is still too high on top of bank to allow water to shed off road. Will need erosion control installed after addressing,2067922.450,218052.957,17.328,PL104_04d2e88b_20261103220547.jpeg
+PL105,Punch-HLC,Concrete - replace section that was cracked,2068515.240,218022.052,19.241,PL105_84692328_20261103222745.jpeg
+PL106,Punch-JR,Storm - underdrain doesn’t appear to be filled,2068521.914,218042.130,19.188,PL106_84692332_20261103224100.jpeg
+PL107,Punch-JR,Grading - remove windrow,2068097.621,218237.418,18.419,PL107_04d2f01e_20261104142815.jpeg
+PL109,Punch-JR,Grading - scrape silt off of alley,2067301.782,218082.197,16.055,PL109_700c1bd4_20261104144759.jpeg
+PL110,Punch-JR,Grading - repair washout and establish erosion control to prevent,2067247.092,218023.540,15.122,PL110_d66b9046_20261104144912.jpeg
+PL111,Punch-HLC,Grading - repair washout and install multiple check dams with fabric to slow water entering rain garden,2067131.257,217881.939,17.749,PL111_5b70b297_20261104145327.jpeg
+PL112,Punch-JR,Grading - multiple soft and low spots at alley entrance,2067209.356,217699.701,20.270,PL112_5b70b29d_20261104145559.jpeg
+PL113,Punch-JR,"Grading - address washouts, remove silt from ditch and establish bank",2067586.234,217664.201,19.393,PL113_700c1bf2_20261104145852.jpeg
+PL114,Punch-JR,Grading - top of bank needs to be scraped down a little. Alley is holding water,2068173.082,217566.819,18.007,PL114_5b70b2e2_20261104150829.jpeg
+PL115,Punch-JR,Storm - box is unfinished around it. Also need to confirm I drain holes are filled,2068195.761,217591.704,17.679,PL115_5b70b2f8_20261104151528.jpeg
+PL116,Punch-JR,Grading - repair washout and remove silt around overflow structure. Install erosion control to prevent from happening again.,2068186.496,217587.538,15.653,PL116_700c1c46_20261104151632.jpeg
+PL117,Punch-JR,Grading - perimeter of rain garden needs to be graded down so that Alley water can drain into it.,2068132.522,217612.209,18.145,PL117_700c1c4f_20261104152019.jpeg
+PL118,Punch-JR,Grading - repair major washout from road to pipe outlet. Establish erosion control to prevent from happening again. Remove silt from pond and repair and improve rip wrap installation around outlet pipe.,2067826.372,217473.651,16.724,PL118_700c1c61_20261104152524.jpeg
+PL119,Punch-JR,Concrete - complete sidewalk,2068169.997,217443.987,17.975,PL119_700c1c6f_20261104152806.jpeg
+PL120,Punch-JR,Grading - repair collapsing area over underdrain. Needs better compaction,2068192.607,217439.242,17.242,PL120_700c1c77_20261104152937.jpeg
+PL121,Punch-JR,Storm - confirm underdrain holes are filled,2068215.595,217422.840,17.356,PL121_5b70b32f_20261104153027.jpeg
+PL122,Punch-JR,Storm - confirm underdrain holes are filled,2068231.545,217278.175,17.863,PL122_d66b90e6_20261104153141.jpeg
+PL123,Punch-JR,Storm - confirm underdrain holes are filled,2068112.580,217260.869,18.960,PL123_5b70b335_20261104153252.jpeg
+PL124,Punch-JR,Storm - confirm underdrain holes are filled,2067931.566,217241.411,19.292,PL124_d66b90ec_20261104153348.jpeg
+PL125,Punch-JR,Storm - confirm underdrain holes are filled,2067794.460,217224.213,19.784,PL125_d66b90ee_20261104153436.jpeg
+PL126,Punch-JR,Grading - repair washout and remove silt from pond,2067897.141,217302.430,14.963,PL126_d66b90f0_20261104153633.jpeg
+PL108,Punch-HLC,Grading - area of alley still too low even though it is higher than the plan calls for. Impassable by car after rain. needs rock and remove windrow to allow water to get to swale. Suggest bringing rock to elevation 19.1 to tie in to both ends of Low area.,2067888.147,218241.493,18.959,PL108_fcfc4d67_20261104142957.jpeg
