@@ -11,3 +11,5 @@
 @media(max-width:800px){.filter-bar{padding:10px 14px;gap:10px;align-items:end}.filter-bar label{flex:1;min-width:135px}.filter-bar select{width:100%;min-width:0;font-size:11px}.filter-results{font-size:10px}.csv-download{padding:8px 10px;font-size:10px}.filter-bar .clear-filters{padding:6px}.map-legend{max-width:calc(100% - 24px);gap:7px 11px}.map-legend span{font-size:8px}}
 
 @media(min-width:801px){.hover-card{display:grid;grid-template-columns:120px minmax(0,1fr);width:min(460px,calc(100% - 40px))}.hover-card>img{height:100%;min-height:180px;object-fit:cover}.hover-card .item-fields{grid-template-columns:64px minmax(0,1fr)}}
+
+.download-actions{display:flex;gap:8px;margin-left:auto;align-items:center}.download-actions .csv-download{margin-left:0}
