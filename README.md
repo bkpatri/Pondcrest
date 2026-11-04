@@ -22,3 +22,7 @@ Keep every Name unique and stable. Replace the complete cumulative website CSV, 
 Prebuilt assets are under assets/. For application changes, run npm install and npm run build, then commit the source and rebuilt assets. CSV/photo-only changes need no rebuild.
 
 config.json contains only the public Supabase URL and publishable key. Never put secret or service-role keys into browser files. setup/shared-completion.sql records the existing database setup.
+
+## PDF report
+
+The Download PDF button beside the GPS CSV button links to the 127-page report hosted as the PDF asset of release punch-list-2026-11-04. It uses one US Letter page per item, with the six survey fields, complete field photo, and a map highlighting the selected point at 1 inch = 50 feet. PDF bookmarks follow the point names. Print at Actual Size (100%) to preserve the stated scale. The PDF is a fixed report; regenerate it when the survey list changes.
