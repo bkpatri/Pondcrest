@@ -2,7 +2,7 @@
 
 Live website: https://bkpatri.github.io/Pondcrest/
 
-127 final punch list items with georeferenced site-plan markers, JPEG photos, survey details, and shared completion saving in Supabase.
+128 punch list items with georeferenced site-plan markers, JPEG photos, survey details, and shared completion saving in Supabase.
 
 ## Filters and colors
 
